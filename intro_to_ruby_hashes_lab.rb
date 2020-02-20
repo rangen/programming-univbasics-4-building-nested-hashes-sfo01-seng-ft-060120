@@ -1,5 +1,5 @@
 def base_hash
-	{age: 18		}	
+	{age: 18		}
 end
 
 def monopoly_with_second_tier
